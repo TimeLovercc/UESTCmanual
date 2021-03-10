@@ -41,3 +41,8 @@
 * [校友网络](bao-gui-cai-fu/xiao-you-wang-luo.md)
 * [各抒己见](bao-gui-cai-fu/ge-shu-ji-jian.md)
 
+## 附录
+
+* [A 编写过程的实现](fu-lu/a-bian-xie-guo-cheng-de-shi-xian.md)
+* [B 可持续的维护机制](fu-lu/b-ke-chi-xu-de-wei-hu-ji-zhi.md)
+
