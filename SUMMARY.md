@@ -8,11 +8,12 @@
 
 ## 认识成电
 
-* [排名的认知](ren-shi-cheng-dian/pai-ming-de-ren-zhi.md)
+* [成电排名为什么这么低？](ren-shi-cheng-dian/pai-ming-de-ren-zhi.md)
 
 ## 课业修行
 
 * [选课](ke-ye-xiu-hang/xuan-ke.md)
+* [科研](ke-ye-xiu-hang/ke-yan.md)
 
 ## 休闲娱乐
 
@@ -23,4 +24,8 @@
 * [考研](zou-chu-cheng-dian/kao-yan.md)
 * [留学](zou-chu-cheng-dian/liu-xue.md)
 * [保研](zou-chu-cheng-dian/bao-yan.md)
+
+## 宝贵财富
+
+* [校友网络](bao-gui-cai-fu/xiao-you-wang-luo.md)
 
